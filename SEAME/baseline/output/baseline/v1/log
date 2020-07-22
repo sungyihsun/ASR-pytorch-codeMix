@@ -1,0 +1,29 @@
+0.08 Seconds
+0.50 Seconds
+1.38 Seconds
+Train Loss: 0.936504
+Avg Train Perplexity: 0.000046
+Val Loss: 0.799234
+Avg Val Perplexity: 0.000004
+CER: 0.880714
+Starting Epoch 39 (103668.87 Seconds)
+Train Loss: 0.940808
+Avg Train Perplexity: 0.000043
+Val Loss: 0.799934
+Avg Val Perplexity: 0.000005
+CER: 0.877714
+Starting Epoch 40 (106459.45 Seconds)
+Train Loss: 0.938304
+Avg Train Perplexity: 0.000041
+Val Loss: 0.792398
+Avg Val Perplexity: 0.000004
+CER: 0.879001
+Starting Epoch 41 (109210.38 Seconds)
+Train Loss: 0.935048
+Avg Train Perplexity: 0.000043
+Val Loss: 0.794975
+Avg Val Perplexity: 0.000004
+CER: 0.876398
+Starting Epoch 42 (111969.72 Seconds)
+Train Loss: 0.938637
+Avg Train Perplexity: 0.000041
